@@ -1,0 +1,14 @@
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/bin/Debug/net9.0/Players-guide-BossBattle-Manticore
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/bin/Debug/net9.0/Players-guide-BossBattle-Manticore.deps.json
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/bin/Debug/net9.0/Players-guide-BossBattle-Manticore.runtimeconfig.json
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/bin/Debug/net9.0/Players-guide-BossBattle-Manticore.dll
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/bin/Debug/net9.0/Players-guide-BossBattle-Manticore.pdb
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/Players-guide-BossBattle-Manticore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/Players-guide-BossBattle-Manticore.AssemblyInfoInputs.cache
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/Players-guide-BossBattle-Manticore.AssemblyInfo.cs
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/Players-guide-BossBattle-Manticore.csproj.CoreCompileInputs.cache
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/Players-guide-BossBattle-Manticore.dll
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/refint/Players-guide-BossBattle-Manticore.dll
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/Players-guide-BossBattle-Manticore.pdb
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/Players-guide-BossBattle-Manticore.genruntimeconfig.cache
+/Users/sao-mai/Documents/Preparandkurs programmering/Players Guide/Players-guide-BossBattle-Manticore/obj/Debug/net9.0/ref/Players-guide-BossBattle-Manticore.dll
